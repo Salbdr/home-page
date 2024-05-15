@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: hsl(0, 18%, 64%);
+    color: #fff;
+}
+h1 {
+    color: #272624;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+a {
+    color: #272624;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
